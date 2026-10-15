@@ -1,37 +1,31 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,40:071B18,100:00FF99&text=ERFANULLAH%20ESMATI&fontSize=43&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%7C%20CYBERSECURITY&descSize=14&descAlignY=58&animation=fadeIn&stroke=00FF99&strokeWidth=1" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:071B18,100:00FF99&height=220&section=header&text=ERFANULLAH%20ESMATI&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%7C%20CYBERSECURITY&descSize=16&descAlignY=58&animation=fadeIn" alt="Banner: Erfanullah Esmati, Software Engineering | Cybersecurity" width="100%">
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1200&color=00FF99&center=true&vCenter=true&width=600&height=40&lines=Hello%2C+World!+I%27m+Erfanullah+Esmati.;I+build+software+that+solves+real+problems.;Exploring+networking+and+cybersecurity.;Build.+Learn.+Analyze.+Secure." alt="Animated intro: Hello, World! I'm Erfanullah Esmati. I build software that solves real problems. Exploring networking and cybersecurity. Build. Learn. Analyze. Secure.">
 
-<a href="https://github.com/erfanesmati1">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2500&pause=700&color=00FF99&center=true&vCenter=true&width=700&height=60&lines=Hello%2C+World!+I'm+Erfanullah+Esmati.;I+build+software+that+solves+real+problems.;Exploring+the+world+of+Cybersecurity.;Understand.+Build.+Analyze.+Secure." alt="Animated Introduction" />
-</a>
+<br>
 
-<br/>
-
-**FROM AFGHANISTAN 🇦🇫 · BUILDING MY FUTURE THROUGH TECHNOLOGY**
-
-<br/>
-
-<a href="https://github.com/erfanesmati1?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK-00FF99?style=for-the-badge&logo=github&logoColor=black" alt="Explore My Work"/>
-</a>
-<a href="https://www.linkedin.com/in/erfanesmati1/">
-<img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=00FF99" alt="LinkedIn"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=erfanesmati1&style=for-the-badge&color=00FF99&label=PROFILE+VIEWS" alt="Profile Views"/>
+<a href="https://github.com/erfanesmati1"><img src="https://img.shields.io/badge/GITHUB-erfanesmati1-071B18?style=for-the-badge&labelColor=050505&color=00FF99" alt="GitHub profile: erfanesmati1"></a>
+<a href="https://www.linkedin.com/in/erfanesmati1/"><img src="https://img.shields.io/badge/LINKEDIN-erfanesmati1-071B18?style=for-the-badge&labelColor=050505&color=00FF99" alt="LinkedIn profile: erfanesmati1"></a>
+<img src="https://komarev.com/ghpvc/?username=erfanesmati1&label=PROFILE%20VIEWS&color=00FF99&labelColor=050505&style=for-the-badge" alt="Profile views counter">
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF99&height=2" alt="" width="100%">
 
-## `01` — WHO AM I?
+## 01 / ABOUT
+
+I'm **Erfanullah Esmati**, a software developer based in Afghanistan. I'm interested in how technology works from the application layer down to the network, and in how to make it more secure.
+
+My approach is simple:
+
+> **Understand how technology works. Build practical solutions. Learn how to secure them.**
+
+I'm currently strengthening my foundations in software development, computer networking, Linux, and defensive security, mostly by building and experimenting.
 
 ```python
 class ErfanullahEsmati:
-
     def __init__(self):
         self.name = "Erfanullah Esmati"
         self.location = "Afghanistan"
@@ -40,208 +34,106 @@ class ErfanullahEsmati:
             "Software Engineering",
             "Computer Networking",
             "Linux & System Administration",
-            "Cybersecurity"
+            "Cybersecurity",
         ]
         self.current_focus = [
-            "Building real-world applications",
+            "Building practical applications",
             "Strengthening networking fundamentals",
-            "Learning defensive security"
+            "Learning defensive security",
         ]
         self.mindset = "Learn by building"
 
     def mission(self):
-        return "Build useful technology. Understand how it works. Make it more secure."
-
-
-me = ErfanullahEsmati()
+        return (
+            "Build useful technology, understand how it works, "
+            "and learn how to make it more secure."
+        )
 ```
 
-I'm passionate about technology, problem-solving, and understanding what happens behind the scenes.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF99&height=2" alt="" width="100%">
 
-My journey combines software development with a growing interest in networking and cybersecurity. I enjoy turning ideas into working applications, exploring new tools, and learning through practical projects.
+## 02 / TECHNICAL TOOLKIT
 
-**My philosophy:** Don't just use technology. Understand it, build with it, and learn how to protect it.
+**Programming & Development**
 
----
+<img src="https://skillicons.dev/icons?i=html,css,js,py,cpp&theme=dark" alt="HTML, CSS, JavaScript, Python, C++">
 
-## `02` — MY TECH ARSENAL
+**Tools & Environment**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,ubuntu,windows,vercel&theme=dark" alt="Git, GitHub, Visual Studio Code, Linux, Ubuntu, Windows, Vercel">
+
+**Networking & Security**
+
+<img src="https://img.shields.io/badge/Nmap-071B18?style=for-the-badge" alt="Nmap">
+<img src="https://img.shields.io/badge/Wireshark-071B18?style=for-the-badge" alt="Wireshark">
+<img src="https://img.shields.io/badge/Linux%20Command%20Line-071B18?style=for-the-badge" alt="Linux command line">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF99&height=2" alt="" width="100%">
+
+## 03 / GITHUB ANALYTICS
 
 <div align="center">
 
-### PROGRAMMING & DEVELOPMENT
+<img src="https://github-readme-stats.vercel.app/api?username=erfanesmati1&show_icons=true&hide_border=true&bg_color=050505&title_color=00FF99&icon_color=00FF99&text_color=C9D1D9" alt="GitHub stats card for erfanesmati1" width="49%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erfanesmati1&layout=compact&hide_border=true&bg_color=050505&title_color=00FF99&text_color=C9D1D9" alt="Most used languages card for erfanesmati1" width="49%">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,cpp&theme=dark" alt="Programming Languages"/>
+<img src="https://streak-stats.demolab.com?user=erfanesmati1&hide_border=true&background=050505&ring=00FF99&fire=00FF99&currStreakLabel=00FF99&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=C9D1D9&dates=888888" alt="GitHub contribution streak for erfanesmati1" width="70%">
 
-### TOOLS & ENVIRONMENT
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,ubuntu,windows,vercel&theme=dark" alt="Development Tools"/>
-
-### NETWORKING & SECURITY
-
-<img src="https://img.shields.io/badge/Nmap-Network%20Reconnaissance-00FF99?style=for-the-badge&logoColor=black" alt="Nmap"/>
-<img src="https://img.shields.io/badge/Wireshark-Packet%20Analysis-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
-<img src="https://img.shields.io/badge/Linux-Command%20Line-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+<sub>Statistics are generated by third-party services and may be cached or temporarily unavailable.</sub>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF99&height=2" alt="" width="100%">
 
-## `03` — SELECTED WORK
+## 04 / CURRENTLY LEVELING UP
 
-<div align="center">
+| # | Focus | What I'm working on |
+|:-:|:------|:--------------------|
+| `01` | **Networking** | Protocols, IP addressing, subnetting, and troubleshooting |
+| `02` | **Linux** | Command-line proficiency and system administration |
+| `03` | **Cybersecurity** | Security fundamentals, network analysis, and defensive security |
+| `04` | **Software Development** | Code quality, maintainable architecture, and Git workflows |
+| `05` | **Professional Growth** | Technical communication and continuous learning |
 
-<a href="https://github.com/erfanesmati1/domain-recon-tool">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=erfanesmati1&repo=domain-recon-tool&theme=transparent&hide_border=true&title_color=00FF99&icon_color=00FF99&text_color=C9D1D9" alt="Domain Recon Tool"/>
-</a>
-<a href="https://github.com/erfanesmati1/modern-Login-page">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=erfanesmati1&repo=modern-Login-page&theme=transparent&hide_border=true&title_color=00FF99&icon_color=00FF99&text_color=C9D1D9" alt="Modern Login Page"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF99&height=2" alt="" width="100%">
 
-</div>
+## 05 / LEARNING JOURNEY
 
-<div align="center">
+Structured learning alongside hands-on practice:
 
-### WHAT I LIKE TO BUILD
+| Area | Focus |
+|:-----|:------|
+| **Google IT Support** | IT fundamentals, operating systems, networking, and troubleshooting |
+| **Cloud Computing** | Core concepts behind modern cloud services |
+| **GitHub & Development Workflows** | Version control, collaboration, and clean Git habits |
+| **Artificial Intelligence Fundamentals** | Understanding the concepts behind modern AI |
+| **Professional English** | Clear technical and professional communication |
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF99&height=2" alt="" width="100%">
 
-**01 / SECURITY TOOLS**
-
-Exploring network reconnaissance, domain information, and practical security utilities.
-
-</td>
-<td width="50%" valign="top">
-
-**02 / WEB APPLICATIONS**
-
-Creating useful, responsive applications with clean interfaces and practical functionality.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**03 / SOFTWARE PROJECTS**
-
-Turning ideas into working products while improving code quality and problem-solving.
-
-</td>
-<td width="50%" valign="top">
-
-**04 / TECHNICAL LABS**
-
-Practising Linux, networking, and security concepts in controlled environments.
-
-</td>
-</tr>
-</table>
-
-<a href="https://github.com/erfanesmati1?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-00FF99?style=for-the-badge&logo=github&logoColor=black" alt="View All Repositories"/>
-</a>
-
-</div>
-
----
-
-## `04` — GITHUB ANALYTICS
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=erfanesmati1&show_icons=true&hide_border=true&bg_color=00000000&title_color=00FF99&icon_color=00FF99&text_color=C9D1D9&ring_color=00FF99&include_all_commits=true" alt="GitHub Statistics"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erfanesmati1&layout=compact&hide_border=true&bg_color=00000000&title_color=00FF99&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
-
-<br/><br/>
-
-<img width="85%" src="https://streak-stats.demolab.com?user=erfanesmati1&hide_border=true&background=00000000&ring=00FF99&fire=00FF99&currStreakLabel=00FF99&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" alt="GitHub Contribution Streak"/>
-
-</div>
-
----
-
-## `05` — CURRENTLY LEVELING UP
-
-<div align="center">
-
-| DOMAIN                   | FOCUS                                                        |
-| :----------------------- | :----------------------------------------------------------- |
-| `01` Networking          | Protocols, IP addressing, subnetting & troubleshooting       |
-| `02` Linux               | Command-line proficiency & system administration             |
-| `03` Cybersecurity       | Security fundamentals, network analysis & defensive security |
-| `04` Development         | Better architecture, maintainable code & Git workflows       |
-| `05` Professional Growth | Technical communication & continuous learning                |
-
-</div>
-
-I believe that strong cybersecurity professionals need to understand the systems, networks, and applications they work to protect.
-
-That's why I'm building my technical foundation one project, one lab, and one lesson at a time.
-
----
-
-## `06` — LEARNING NEVER STOPS
-
-My learning journey includes structured training and hands-on exploration in:
-
-* **Google IT Support:** IT support, troubleshooting, and technical fundamentals.
-* **Cloud Computing:** Understanding cloud concepts and services.
-* **GitHub & Software Development:** Version control and AI-assisted development workflows.
-* **Artificial Intelligence:** Core AI concepts and practical applications.
-* **Professional English:** Developing communication skills for the technology industry.
-
-Courses build knowledge. Projects turn that knowledge into experience.
-
----
-
-## `07` — BEYOND THE CODE
-
-<div align="center">
+## 06 / PHILOSOPHY
 
 ```text
-        THINK LIKE AN ENGINEER.
-        OBSERVE LIKE AN ANALYST.
-        LEARN LIKE A BEGINNER.
-        BUILD LIKE A CREATOR.
-        SECURE LIKE A PROFESSIONAL.
+THINK LIKE AN ENGINEER.
+OBSERVE LIKE AN ANALYST.
+LEARN LIKE A BEGINNER.
+BUILD LIKE A CREATOR.
+SECURE LIKE A PROFESSIONAL.
 ```
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF99&height=2" alt="" width="100%">
 
-I want to build a career grounded in real technical ability, practical experience, and continuous improvement.
+## 07 / CONNECT
 
-Every repository is an opportunity to learn something new. Every challenge is an opportunity to become better.
-
----
-
-## `08` — LET'S CONNECT
+I'm always happy to connect with people who care about software development, networking, and cybersecurity.
 
 <div align="center">
 
-**Interested in software development, networking, or cybersecurity?**
+<a href="https://github.com/erfanesmati1"><img src="https://img.shields.io/badge/GITHUB-erfanesmati1-071B18?style=for-the-badge&labelColor=050505&color=00FF99" alt="GitHub profile: erfanesmati1"></a>
+<a href="https://www.linkedin.com/in/erfanesmati1/"><img src="https://img.shields.io/badge/LINKEDIN-erfanesmati1-071B18?style=for-the-badge&labelColor=050505&color=00FF99" alt="LinkedIn profile: erfanesmati1"></a>
 
-I'm always open to learning, sharing ideas, and connecting with people who are passionate about technology.
+<br>
 
-<br/>
-
-<a href="https://github.com/erfanesmati1">
-<img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/erfanesmati1/">
-<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00FF99" width="80%" alt="Divider"/>
-
-### `BUILD  /  LEARN  /  ANALYZE  /  SECURE`
-
-<sub>Designed with curiosity. Built with purpose. Improved with every commit.</sub>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:00FF99,100:050505" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF99,50:071B18,100:050505&height=120&section=footer&text=BUILD%20%2F%20LEARN%20%2F%20ANALYZE%20%2F%20SECURE&fontSize=18&fontColor=FFFFFF&fontAlignY=68" alt="Footer: BUILD / LEARN / ANALYZE / SECURE" width="100%">
 
 </div>
